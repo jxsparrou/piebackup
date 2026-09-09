@@ -34,3 +34,6 @@ BackupItem
 └── size()
 
 BackupItem - object that represents the item to be backed up. Might contain some metadata about the item, such as its name, size, and last modified date; but I am undecided on how to approach this.
+
+
+note for me: run uv sync on the other computer to update the venv virt environment
